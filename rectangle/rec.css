@@ -1,3 +1,13 @@
+body{
+    background-color: #ccc;
+    position: relative;
+}
+footer{
+    right:10px;
+    bottom:10px;
+    position: absolute;
+    background-color: green;
+}
 div{
     width: 400px;
     margin:50px auto;
