@@ -1,7 +1,11 @@
 body{
     background-color: red;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
 }
-div{
+.top1{
     width: 400px;
     margin:50px auto;
     font-size: 1.5em;
