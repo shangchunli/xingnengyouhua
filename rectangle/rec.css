@@ -6,12 +6,7 @@ body{
     right:0;
     bottom:0;
 }
-footer{
-    right:10px;
-    bottom:10px;
-    position: absolute;
-    background-color: green;
-}
+
 .top1{
     width: 400px;
     margin:50px auto;

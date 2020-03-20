@@ -10,8 +10,6 @@ $(function () {
     $height=$("#height");
     $btnCal=$("#calculate");
     $perimeter=$("#perimeter");
-    $forkMeGH=$('.fork-me-github');
-    $bszPageFooter=$('footer')
     $area=$("#area");
     $forkMeGH.show("https://github.com/shangchunli/xingnengyouhua");
     $bszPageFooter.show("body");
