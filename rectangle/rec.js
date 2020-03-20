@@ -11,7 +11,7 @@ $(function () {
     $btnCal=$("#calculate");
     $perimeter=$("#perimeter");
     $area=$("#area");
-    $forkMeGH.show("https://github.com/wujinya2017/w-zuoye-baidu");
+    $forkMeGH.show("https://github.com/shangchunli/xingnengyouhua/rectangle");
     $bszPageFooter.show("body");
     //点击事件
     $btnCal.click(function () { 
