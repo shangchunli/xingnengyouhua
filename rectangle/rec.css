@@ -1,13 +1,7 @@
 body{
-    background-color: #ccc;
-    position: relative;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
+    background-color: red;
 }
-
-.top1{
+div{
     width: 400px;
     margin:50px auto;
     font-size: 1.5em;
